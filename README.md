@@ -1,4 +1,4 @@
-# homework-07: otus-bayan
+# otus homework #7 - bayan
     find identical files
 
 ## Help
